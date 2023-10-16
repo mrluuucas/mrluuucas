@@ -1,5 +1,5 @@
 
-### Olá eu sou LUCAS CLEBER🕹️
+## Olá Eu Sou LUCAS CLEBER🕹️
 
 <!-- icons -->
 
@@ -12,7 +12,14 @@
 
 ### TECNOLOGIAS
 
-![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+Apaixonado por tecnologia desde o primeiro código, encontrei na magia da programação uma fonte inesgotável de desafios emocionantes e soluções criativas.
+
+## Ultimas Noticias:
+
+ - [NDEV](https://www.youtube.com/channel/UCwpYAcpJoj2K1ruMuuhxygA)
+
 
 
 
